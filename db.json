@@ -1,0 +1,14 @@
+{
+    "artigo1": {
+        "titulo": "Artigo 1",
+        "texto": "Artigo de avaliação final 1"
+    },
+    "artigo2": {
+        "titulo": "Artigo 2",
+        "texto": "Artigo de avaliação final 2"
+    },
+    "artigo3": {
+        "titulo": "Artigo 3",
+        "texto": "Artigo de avaliação final 3"
+    }
+}
